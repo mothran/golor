@@ -3,6 +3,7 @@
 GoLor is a GoLang binding for the Lorcon2 library
 
 To get started try:
+
 	go install golor
 	sudo -E -c "go run main.go [INTERFACE]"
 
@@ -31,4 +32,4 @@ Currently it is able to open an interface in inj/monitor mode, set and get the c
 	Get or Sets for VAP
 	datalink func's
 	Anything not mentioned above.
-	An error handeling system, currently it panics in the library, which I feel is not a . . .delicate way to deal with errors.
+	An error handeling system, currently it panics in the library.
