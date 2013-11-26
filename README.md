@@ -8,7 +8,7 @@ To get started try:
 	sudo -E -c "go run main.go [INTERFACE]"
 
 
-The interface is modeled after pylorcon2 (this one: ) and for examples of how to interact with the library, check main.go
+The interface is modeled after pylorcon2 (this one: https://code.google.com/p/pylorcon2/) and for examples of how to interact with the library, check main.go
 
 #Status
 Working, modeled after pylorcon2
