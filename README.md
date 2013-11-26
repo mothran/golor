@@ -33,3 +33,7 @@ Currently it is able to open an interface in inj/monitor mode, set and get the c
 	datalink func's
 	Anything not mentioned above.
 	An error handeling system, currently it panics in the library.
+
+# Errors
+
+If you get a 'panic: no such device' when running golor for the first time, try running it again.  If this does not fix the issue, log a bug
